@@ -20,6 +20,9 @@
 
 By code `pd.merge()`
 ## Discussion
+```
+Warning ...
+```
 
 ## Summary
 
