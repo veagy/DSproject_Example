@@ -18,6 +18,7 @@
   - method 2.2
 ## Results
 
+By code `pd.merge()`
 ## Discussion
 
 ## Summary
