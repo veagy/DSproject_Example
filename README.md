@@ -4,6 +4,7 @@
 
 ## Data Selection
 
+![Picture 1](lab1.PNG)
 ## Methods
 
 ## Results
