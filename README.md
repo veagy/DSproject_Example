@@ -8,6 +8,7 @@
 
 
 [Reference1](https://github.com/memoatwit/dsexample)
+
 ## Methods
 - method 1
   - method 1.1
@@ -21,7 +22,7 @@
 By code `pd.merge()`
 ## Discussion
 ```
-Warning ...
+Warning geageageagea...
 ```
 
 ## Summary
