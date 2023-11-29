@@ -4,7 +4,7 @@
 
 ## Data Selection
 
-![Picture 1](lab1.PNG)
+![Picture 1](graph/lab1.PNG)
 
 
 ## Methods
