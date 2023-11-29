@@ -7,11 +7,10 @@
 ![Picture 1](lab1.PNG)
 
 
-[Reference1](https://github.com/memoatwit/dsexample)
-
 ## Methods
 - method 1
-  - method 1.1
+  - Method 1.1
+  Explanation of 
   - method 1.2
   - method 1.3
 - method 2
@@ -26,5 +25,8 @@ Warning geageageagea...
 ```
 
 ## Summary
+In this project, I .... 
 
 ## Reference
+
+[Reference1](https://github.com/memoatwit/dsexample)
