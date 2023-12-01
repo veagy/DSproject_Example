@@ -2,8 +2,6 @@
 
 ## Introduction
 
-### title
-
 ## Data Selection
 
 ![Picture 1](graph/lab1.PNG)
@@ -12,11 +10,6 @@
 ## Methods
 - method 1
   - Method 1.1
-    - Method 1.1.1 Neutral network
-      
-Explanation of this.... why,  assumption,  module
-
-    - Method 1.1.2
   Explanation of 
   - method 1.2
   - method 1.3
