@@ -23,7 +23,7 @@
   - method 2.2
 ## Results
 
-By code `pd.merge()`
+By code `pd.merge()` ''''''
 ## Discussion
 ```
 Warning geageageagea...
