@@ -12,7 +12,9 @@
 ## Methods
 - method 1
   - Method 1.1
-    - Method 1.1.1
+    - Method 1.1.1 Neutral network
+Explanation of this.... why,  assumption,  module
+
     - Method 1.1.2
   Explanation of 
   - method 1.2
